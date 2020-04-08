@@ -1,2 +1,2 @@
-# ilyasrukyat-revolusi
-pemrograman beriorientasi objek
+# kangilyasr
+pemrograman berorientasi objek
