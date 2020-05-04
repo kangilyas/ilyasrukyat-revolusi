@@ -1,0 +1,7 @@
+package animals;
+
+class mamalia {
+  
+}
+
+    
